@@ -16,4 +16,6 @@
 ### 项目遇到问题，请联系我
 - qq邮箱：971561770@qq.com
 
+### 由于数据接口使用的是http协议，部署还是我的服务器上
+- [vue-onlineLive](https://47.100.199.95/webpack-vue-shop)
 
